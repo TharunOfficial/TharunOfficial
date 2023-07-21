@@ -7,3 +7,4 @@ for i in range(100):
     list1.append(add)
     print(list1)
  # program by Tharun
+#change the range value to continue the series
