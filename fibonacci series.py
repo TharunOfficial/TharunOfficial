@@ -6,4 +6,4 @@ for i in range(100):
     add=list1[-1]+list1[-2]
     list1.append(add)
     print(list1)
- 
+ # program by Tharun
